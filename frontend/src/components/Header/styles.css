@@ -1,0 +1,28 @@
+header {
+    background: linear-gradient(180deg, #102347 0%, #181818 100%);
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .salesgoal-logo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .salesgoal-logo-container img {
+    width: 235px;
+  }
+  
+  .salesgoal-logo-container h1 {
+    margin-top: 15px;
+    font-size: 24px;
+  }
+  
+  .salesgoal-logo-container p {
+    font-size: 14px;
+    font-weight: 300;
+  }
+  
